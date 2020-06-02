@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="movie_img_width">84dp</dimen>
+    <dimen name="moview_img_height">118dp</dimen>
+</resources>
